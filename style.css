@@ -1,3 +1,36 @@
 body{
-    /* background-color: gray; */
+    background-color:#f4f4f4;
+    margin: 0;
+
 }
+
+.container {
+    width: 780px;
+    margin: 0 auto;
+    background: #fff;
+
+
+}
+
+.header{
+    padding: 45px 0 20px 40px;
+    border: 2px solid black;
+}
+
+.menu{
+    background: #96c4d1;
+    padding: 6px 0 6px 40px;
+
+
+}
+.menu a{
+    color: #1c1e1e;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Arail Narrow","Myriad Pro";
+}
+
+.menu a:hover{
+    color: #754219;
+}
+
